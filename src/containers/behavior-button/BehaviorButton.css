@@ -1,0 +1,12 @@
+.behavior-button {
+    padding: 20px;
+    border: 1px solid #1267b1;
+    border-radius: 5px;
+    background-color: transparent;
+    color: #333;
+}
+
+.behavior-button_active {
+    background-color: #1267b1;
+    color: #fff;
+}

@@ -1,0 +1,7 @@
+.controls > * {
+    margin-left: 10px;
+}
+
+.controls > *:first-child {
+    margin-left: 0;
+}
